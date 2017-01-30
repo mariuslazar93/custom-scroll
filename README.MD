@@ -2,6 +2,8 @@
 
 Small JavaScript plugin that can help you scroll through the page. You can use it as a `back to top` functionality, `go to item` functionality or to scroll inside a scrollable container.
 
+[LIVE DEMO](https://mariuslazar93.github.io/plugins/custom-scroll/) 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
